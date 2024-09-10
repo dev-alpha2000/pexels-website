@@ -34,3 +34,19 @@ bash
 Copy code
 npm start
 The app will be available at http://localhost:3000.
+
+Usage
+Search for Photos/Videos: Use the search bar to find specific photos or videos.
+Infinite Scrolling: Scroll down to load more images or videos.
+View Image/Video Details: Click on an image or video to view it in full-screen and access additional details.
+Example
+Go to the homepage.
+Use the search bar to find photos or videos related to a topic.
+Scroll down to load more results.
+Click on an image or video to view the full-size version.
+Dependencies
+React: Frontend framework
+Axios: For making API requests to the Pexels API
+React Infinite Scroll: For infinite scrolling functionality
+CSS Modules or Styled Components: For styling
+
